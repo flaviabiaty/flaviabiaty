@@ -49,6 +49,16 @@ Análise estatística dos principais drivers da experiência do cliente.
 
 ---
 
+📦 Análise Exploratória de Dados Logísticos
+Estudo estatístico para identificação de padrões operacionais e drivers associados à ocorrência de reclamações em operações logísticas.
+- Correlação forte entre número de entregas e distância percorrida (0.73)
+- Information Value do Produto ≈ 0.42 (forte poder discriminatório)
+- Distância e número de paradas com baixo poder explicativo
+- Ranking de importância das variáveis operacionais
+
+🔗 github.com/flaviabiaty/analise_logistica
+
+---
 ### 📉 Análise de Cancelamento (Churn)
 Estudo quantitativo para identificação de padrões associados ao cancelamento de clientes, com foco em suporte à estratégia de retenção.
 
