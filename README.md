@@ -1,10 +1,9 @@
-# 👋 Olá, eu sou a Flávia
-
+# Portifólio de Projetos de Análise de Dados 
 🎯  **Analista de Dados | Modelagem Quantitativa | Business Intelligence**
 
 📍 São Paulo – SP  
 
-Sou formada em Ciências Atuariais (FEA-USP), Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP) e Doutora em Ciências (IPEN-USP), com atuação em ambientes financeiros e projetos de modelagem quantitativa aplicada.
+Meu nome é Flavia Biaty. Sou formada em Ciências Atuariais (FEA-USP), Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP) e Doutora em Ciências (IPEN-USP), com atuação em ambientes financeiros e projetos de modelagem quantitativa aplicada.
 
 Minha experiência combina:
 - 📊 Análise estatística aplicada a negócio
