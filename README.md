@@ -1,5 +1,6 @@
 # Sobre mim: 
 Meu nome é Flavia Biaty. Sou formada em Ciências Atuariais (FEA-USP), Tecnóloga em Análise e Desenvolvimento de Sistemas (FATEC-SP) e Doutora em Ciências (IPEN-USP), com atuação em ambientes financeiros e projetos de modelagem quantitativa aplicada.
+
 🎯  **Analista de Dados | Modelagem Quantitativa | Business Intelligence**
 📍 São Paulo – SP  
 
